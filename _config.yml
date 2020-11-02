@@ -11,7 +11,7 @@ github_repo: "https://github.com/Hy98nan/Hy98nan.github.io" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "喂！来都来了，留下点东西再走呀！"
+sidebar-about-description: "哈喽！既然来了，留下点东西再走吧！"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
